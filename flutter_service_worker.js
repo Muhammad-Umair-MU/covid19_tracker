@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c3f57ed44ac4d428b1b5aea40a245582",
+  "assets/AssetManifest.json": "dc9f5b05a083690435a00a2197989e4b",
 "assets/assets/corona.png": "1b2a5273dc1c263f188d972fec035a79",
 "assets/assets/doctor.png": "dfd1e21441dcbeab7a149ae0a7290481",
+"assets/assets/loading.gif": "a9349d1321b637e67ff5792f0ff85187",
 "assets/assets/myths/ages.png": "d4823a8f72d03d7b5e0f1a0d22a50b9a",
 "assets/assets/myths/antibiotics.png": "ccdfc714a72030b457a80ccdb5fd8cc6",
 "assets/assets/myths/dogs.png": "65c048481201c22eac58dff88ce93f59",
@@ -43,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ec6a2fa05e890c9ced26fa6f69037be6",
-"/": "ec6a2fa05e890c9ced26fa6f69037be6",
-"main.dart.js": "b8294d793b6d80795968c233dd83c95d",
+"index.html": "aaffb762b3077086293af37210edab26",
+"/": "aaffb762b3077086293af37210edab26",
+"main.dart.js": "38053f953b1662d99d57f720f2bd1cb2",
 "manifest.json": "55cb5ecaad5a33c34138a78e61538646",
 "version.json": "2bc89d9b5ac60f15f6d64a1992f88562"
 };
